@@ -1,6 +1,6 @@
 # cs383-sp20-jquerycoursereg
 
-This is an example from CS 383 from the Spring 2020 semester filter course information using jQuery.
+This is an example from CS 383 from the Spring 2020 semester to filter course information using jQuery.
 
 Note that the `mysql.sql` file must be edited with the information for your database.
 
